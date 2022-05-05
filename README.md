@@ -1,8 +1,10 @@
 ### Hi there 👋
 <p align='left'>
-[![codewars](https://www.codewars.com/users/Donraf/badges/large)](https://www.codewars.com/users/Donraf)
+  <img src="https://www.codewars.com/users/Donraf/badges/large" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donraf&layout=compact)](https://github.com/Donraf/github-readme-stats)
+<p align='left'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donraf&layout=compact" />
+</p>
 <!--
 **Donraf/Donraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
