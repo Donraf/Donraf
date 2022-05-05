@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donraf&layout=compact)](https://github.com/Donraf/github-readme-stats)
-
+[![codewars](https://www.codewars.com/users/Donraf/badges/large)](https://www.codewars.com/users/Donraf)
 <!--
 **Donraf/Donraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
