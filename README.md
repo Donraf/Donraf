@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donraf&layout=compact)](https://github.com/Donraf/github-readme-stats)
 
 <!--
 **Donraf/Donraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
